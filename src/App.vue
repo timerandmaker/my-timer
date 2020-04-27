@@ -38,6 +38,7 @@
 <style scoped>
 .app-container{
   padding-top: 40px;
+  padding-bottom: 60px;
   overflow-x: hidden;
 }
 .mint-header.is-fixed{
